@@ -1,0 +1,4 @@
+06-Jan-2015 15:58:14.984 INFO [http-nio-0.0.0.0-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLHostManager: list: Listing hosts for engine [Catalina]
+06-Jan-2015 15:58:23.856 INFO [http-nio-0.0.0.0-8080-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLHostManager: list: Listing hosts for engine [Catalina]
+06-Jan-2015 19:47:06.416 INFO [http-nio-0.0.0.0-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLHostManager: list: Listing hosts for engine [Catalina]
+06-Jan-2015 23:47:21.223 INFO [http-nio-0.0.0.0-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLHostManager: list: Listing hosts for engine [Catalina]

@@ -1,0 +1,5 @@
+29-Dec-2014 17:36:43.193 INFO [http-nio-0.0.0.0-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Dec-2014 21:38:49.669 INFO [http-nio-0.0.0.0-8080-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Dec-2014 21:59:14.678 INFO [http-nio-0.0.0.0-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Dec-2014 22:30:15.829 INFO [http-nio-0.0.0.0-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+29-Dec-2014 22:36:59.826 INFO [http-nio-0.0.0.0-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'

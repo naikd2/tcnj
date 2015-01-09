@@ -1,0 +1,10 @@
+29-Dec-2014 21:38:49.572 WARNING [http-nio-0.0.0.0-8080-exec-3] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "tomcat"
+29-Dec-2014 21:38:49.591 WARNING [http-nio-0.0.0.0-8080-exec-5] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "tomcat"
+29-Dec-2014 21:38:49.977 WARNING [http-nio-0.0.0.0-8080-exec-10] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "manager"
+29-Dec-2014 21:38:49.993 WARNING [http-nio-0.0.0.0-8080-exec-3] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "manager"
+29-Dec-2014 22:36:59.648 INFO [http-nio-0.0.0.0-8080-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive /opt/tomcat/webapps/top.war
+29-Dec-2014 22:36:59.808 INFO [http-nio-0.0.0.0-8080-exec-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Dec-2014 22:36:59.824 INFO [http-nio-0.0.0.0-8080-exec-8] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive /opt/tomcat/webapps/top.war has finished in 176 ms
+29-Dec-2014 22:37:36.530 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.reload Reloading context [/manager]
+29-Dec-2014 22:37:36.531 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/manager] has started
+29-Dec-2014 22:37:36.673 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/manager] is completed

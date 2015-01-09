@@ -1,0 +1,10 @@
+07-Jan-2015 00:46:52.977 INFO [http-nio-0.0.0.0-8080-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+07-Jan-2015 00:46:52.977 INFO [http-nio-0.0.0.0-8080-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+07-Jan-2015 00:46:52.998 INFO [http-nio-0.0.0.0-8080-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+07-Jan-2015 00:46:59.285 INFO [http-nio-0.0.0.0-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/quercus-4.0.39'
+07-Jan-2015 00:46:59.821 INFO [http-nio-0.0.0.0-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+07-Jan-2015 00:49:42.875 INFO [http-nio-0.0.0.0-8080-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+07-Jan-2015 00:49:45.603 INFO [http-nio-0.0.0.0-8080-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+07-Jan-2015 10:10:51.477 INFO [http-nio-0.0.0.0-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+07-Jan-2015 10:10:51.478 INFO [http-nio-0.0.0.0-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+07-Jan-2015 10:10:51.488 INFO [http-nio-0.0.0.0-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
